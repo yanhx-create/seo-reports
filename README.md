@@ -1,2 +1,2 @@
 # seo-reports
-存贮SEO行业洞察信息内容
+SEO行业洞察信息内容
